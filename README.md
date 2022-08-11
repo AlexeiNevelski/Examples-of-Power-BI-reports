@@ -6,4 +6,4 @@ Each of these reports is a separated project with different goals. They are abou
 - cohort analysis
 - measuring the effectiveness of online advertising campaigns
 
-The reports are written in Russian.
+The reports are written in Russian and uploaded in PDF-format.
